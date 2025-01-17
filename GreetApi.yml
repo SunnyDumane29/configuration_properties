@@ -1,16 +1,1 @@
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
-server:
-  port: 9393
-spring:
-  application:
-    name: GreetApi
-  boot:
-    admin:
-      client:
-        url: http://localhost:9191/
-
-         msg: Greet from yml file from gitHub Repo
+msg: Greet from yml file from gitHub Repo

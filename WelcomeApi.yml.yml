@@ -10,3 +10,5 @@ spring:
     admin:
       client:
         url: http://localhost:9191/
+
+        msg: Welcome from yml file from gitHub Repo
